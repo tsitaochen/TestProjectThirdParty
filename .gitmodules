@@ -4,3 +4,6 @@
 [submodule "lcov"]
 	path = lcov
 	url = https://github.com/linux-test-project/lcov.git
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
